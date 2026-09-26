@@ -13,3 +13,6 @@
 - عملت Block لـ IP مهاجم: 32.122.195.63
 - خدت 32 نقطة
 
+
+![Day 01 Proof 1](Screenshot_20260926-150053.jpg)
+![Day 01 Proof 2](Screenshot_20260926-151049.jpg)
