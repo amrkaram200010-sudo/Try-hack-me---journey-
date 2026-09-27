@@ -12,3 +12,8 @@
 
 ![Day 01](Screenshot_20260926-150053.jpg)
 ![Day 01](Screenshot_20260926-151049.jpg)
+![Day 02 - 1](day02-1.jpg)
+![Day 02 - 2](day02-2.jpg)
+![Day 02 - 3](day02-3.jpg)
+![Day 02 - 4](day02-4.jpg)
+![Day 02 - 5](day02-5.jpg)
