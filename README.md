@@ -12,8 +12,3 @@
 
 ![Day 01](Screenshot_20260926-150053.jpg)
 ![Day 01](Screenshot_20260926-151049.jpg)
-![Day 02 - 1](Screenshot_2260928-021748.jpg)
-![Day 02 - 2](Screenshot_226%200928-0%2016%207.jpg)
-![Day 02 - 3](Screenshot_2226%200928-04329.jpg)
-![Day 03 - 1](Screenshot_01012-260928عشرين.jpg)
-![Day 03 - 2](Screenshot_010144-260928...بير.jpg)
