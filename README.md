@@ -1,18 +1,23 @@
-# 🛡️ My Cyber Security Journey - Amr Karam
+# 🛡️ رحلتي في مجال الأمن السيبراني - عمرو كرم
 
-طالب ثانوية عامة من مصر - بدأت 26-09-2026
+طالبة ثانوية عامة من مصر - بدأت في 26/09/2026
+هدفي: اخلص 40 غرفة على TryHackMe في 10 شهور
 
-**هدفي:** اخلص 40 غرفة على TryHackMe في 10 شهور
+بروفايلي: https://tryhackme.com/p/amrkaram200010
 
-**بروفايلي:** https://tryhackme.com/p/amrkaram200010
-
-## Progress
-
-### ✅ Day 01 - Defensive Security Intro - 26/09/2026
+## ✅ اليوم الأول - 26/09/2026 - مقدمة في الأمن الدفاعي
 - اتعلمت يعني ايه دفاع
-- عملت Block لـ IP مهاجم: 32.122.195.63
+- بلوك لـ IP الهجوم: 32.122.195.63
 - خدت 32 نقطة
 
+![Day 01](Screenshot_20260926-150053.jpg)
+![Day 01](Screenshot_20260926-151049.jpg)
 
-![Day 01 Proof 1](Screenshot_20260926-150053.jpg)
-![Day 01 Proof 2](Screenshot_20260926-151049.jpg)
+## 📅 اليوم الثاني - غرف جديدة
+![Day 02 - 1](Screenshot_2260928-021748.jpg)
+![Day 02 - 2](Screenshot_226%200928-0%2016%207.jpg)
+![Day 02 - 3](Screenshot_2226%200928-04329.jpg)
+
+## 📅 اليوم الثالث
+![Day 03 - 1](Screenshot_01012-260928عشرين.jpg)
+![Day 03 - 2](Screenshot_010144-260928...بير.jpg)
