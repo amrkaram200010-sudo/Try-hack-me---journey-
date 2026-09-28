@@ -10,10 +10,13 @@
 - بلوك لـ IP الهجوم: 32.122.195.63
 - خدت 32 نقطة
 
-![Day 01](Screenshot_20260926-150053.jpg)
-![Day 01](Screenshot_20260926-151049.jpg)
-![Day 02 - 1](day02-1.jpg)
-![Day 02 - 2](day02-2.jpg)
-![Day 02 - 3](day02-3.jpg)
-![Day 02 - 4](day02-4.jpg)
-![Day 02 - 5](day02-5.jpg)
+## Day 01 - الصور اللي نجحت
+<img src="Screenshot_20260926-150053.jpg" width="100%">
+<img src="Screenshot_20260926-151049.jpg" width="100%">
+
+## Day 02 - الصور الجديدة كلها
+<img src="Screenshot_٠٠٤٣٢٩-٢٠٢٦.٠٩٢٨.jpg" width="100%">
+<img src="Screenshot_٠١٠١٢-٢٠٢٦.٠٩٢٨.jpg" width="100%">
+<img src="Screenshot_٠١٠١٤٤-٢٠٢٦.٠٩٢٨.jpg" width="100%">
+<img src="Screenshot_٠١١٦٣٠-٢٠٢٦.٠٩٢٨.jpg" width="100%">
+<img src="Screenshot_٠٢١٧٤٨-٢٠٢٦.٠٩٢٨.jpg" width="100%">
